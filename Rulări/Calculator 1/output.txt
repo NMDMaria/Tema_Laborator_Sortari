@@ -1,0 +1,111 @@
+1 = teste generate random dupa N si Max, 2 = teste alese
+1 ----------------------------------------
+N=100 Max=1000
+Default sort in python --- Timsort O(nlogn) takes: 0.0 s
+sorted ok Bubble 0.0009982585906982422 s
+sorted ok Count 0.002000093460083008 s
+sorted ok Merge 0.0 s
+sorted ok NaturalMerge 0.0009984970092773438 s
+sorted ok Radix 0.0 s
+sorted ok Radix2 0.0 s
+sorted ok QuickMediana5 0.0 s
+sorted ok QuickRandom 0.0009989738464355469 s
+sorted ok QuickDreapta 0.0 s
+2 ----------------------------------------
+N=1000 Max=10000
+Default sort in python --- Timsort O(nlogn) takes: 0.0 s
+sorted ok Bubble 0.08695030212402344 s
+sorted ok Count 0.0029976367950439453 s
+sorted ok Merge 0.003001689910888672 s
+sorted ok NaturalMerge 0.0019989013671875 s
+sorted ok Radix 0.0019981861114501953 s
+sorted ok Radix2 0.0049970149993896484 s
+sorted ok QuickMediana5 0.0039975643157958984 s
+sorted ok QuickRandom 0.003997802734375 s
+sorted ok QuickDreapta 0.0029985904693603516 s
+3 ----------------------------------------
+N=100000 Max=1000
+Default sort in python --- Timsort O(nlogn) takes: 0.0159909725189209 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 0.024985551834106445 s
+sorted ok Merge 0.4547252655029297 s
+sorted ok NaturalMerge 0.43375062942504883 s
+sorted ok Radix 0.2308666706085205 s
+sorted ok Radix2 0.4217569828033447 s
+sorted ok QuickMediana5 2.945312976837158 s
+sorted ok QuickRandom 1.459158182144165 s
+sorted ok QuickDreapta 1.3352296352386475 s
+4 ----------------------------------------
+N=100000 Max=100000
+Default sort in python --- Timsort O(nlogn) takes: 0.019988298416137695 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 0.06296467781066895 s
+sorted ok Merge 0.5256965160369873 s
+sorted ok NaturalMerge 0.48072052001953125 s
+sorted ok Radix 0.41264772415161133 s
+sorted ok Radix2 0.7990021705627441 s
+sorted ok QuickMediana5 0.6847541332244873 s
+sorted ok QuickRandom 0.49772214889526367 s
+sorted ok QuickDreapta 0.45473790168762207 s
+5 ----------------------------------------
+N=100000 Max=10000000
+Default sort in python --- Timsort O(nlogn) takes: 0.02098870277404785 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 2.974790334701538 s
+sorted ok Merge 0.5326523780822754 s
+sorted ok NaturalMerge 0.44674253463745117 s
+sorted ok Radix 0.4267537593841553 s
+sorted ok Radix2 1.1223526000976562 s
+sorted ok QuickMediana5 0.7435715198516846 s
+sorted ok QuickRandom 0.5486843585968018 s
+sorted ok QuickDreapta 0.5526771545410156 s
+6 ----------------------------------------
+N=100000 Max=100000000
+Default sort in python --- Timsort O(nlogn) takes: 0.029982328414916992 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 29.094903469085693 s
+sorted ok Merge 0.5056891441345215 s
+sorted ok NaturalMerge 0.46872973442077637 s
+sorted ok Radix 0.5247116088867188 s
+sorted ok Radix2 1.193312168121338 s
+sorted ok QuickMediana5 0.6856045722961426 s
+sorted ok QuickRandom 0.5117042064666748 s
+sorted ok QuickDreapta 0.469728946685791 s
+7 ----------------------------------------
+N=1000000 Max=100000
+Default sort in python --- Timsort O(nlogn) takes: 0.34180212020874023 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 0.32581067085266113 s
+sorted ok Merge 6.759103298187256 s
+sorted ok NaturalMerge 6.990965843200684 s
+sorted ok Radix 4.562511682510376 s
+sorted ok Radix2 11.90835452079773 s
+sorted ok QuickMediana5 13.146150350570679 s
+sorted ok QuickRandom 7.940422296524048 s
+sorted ok QuickDreapta 6.48713493347168 s
+8 ----------------------------------------
+N=1000000 Max=1000000
+Default sort in python --- Timsort O(nlogn) takes: 0.34232306480407715 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 0.7135872840881348 s
+sorted ok Merge 6.766100168228149 s
+sorted ok NaturalMerge 6.206425905227661 s
+sorted ok Radix 5.028101444244385 s
+sorted ok Radix2 13.051174879074097 s
+sorted ok QuickMediana5 11.672180414199829 s
+sorted ok QuickRandom 6.704135894775391 s
+sorted ok QuickDreapta 5.948591470718384 s
+9 ----------------------------------------
+N=1000000 Max=10000000
+Default sort in python --- Timsort O(nlogn) takes: 0.3348066806793213 s
+Bubble sort merge foarte greu pentru mai mult de 10^5 numere
+sorted ok Count 3.2611196041107178 s
+sorted ok Merge 6.619184494018555 s
+sorted ok NaturalMerge 6.351839780807495 s
+sorted ok Radix 5.085054397583008 s
+sorted ok Radix2 15.615365505218506 s
+sorted ok QuickMediana5 11.979143857955933 s
+sorted ok QuickRandom 7.395759344100952 s
+sorted ok QuickDreapta 6.855051517486572 s
+10 ----------------------------------------
+N=100000000 Max=100000
